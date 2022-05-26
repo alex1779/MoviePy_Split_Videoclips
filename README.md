@@ -19,4 +19,4 @@ The -i parameter is the input path of the file to split, for example -i input/te
 The parameter -p is the input of an integer and means the number of parts in which the original video will be divided, for example -p 5
 ```
 
-![IMG](https://github.com/alex1779/MoviePy_Split_Videoclip/blob/master/img.jpg)
+![IMG](https://github.com/alex1779/MoviePy_Split_Videoclips/blob/master/img.jpg)
